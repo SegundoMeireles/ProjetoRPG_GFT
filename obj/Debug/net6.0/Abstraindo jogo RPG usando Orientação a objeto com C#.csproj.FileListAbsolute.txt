@@ -1,0 +1,15 @@
+D:\Curso Oracle\Certificações e cursos adicionais\GFT DIO\Abstraindo jogo RPG usando Orientação a objeto com C#\bin\Debug\net6.0\Abstraindo jogo RPG usando Orientação a objeto com C#.exe
+D:\Curso Oracle\Certificações e cursos adicionais\GFT DIO\Abstraindo jogo RPG usando Orientação a objeto com C#\bin\Debug\net6.0\Abstraindo jogo RPG usando Orientação a objeto com C#.deps.json
+D:\Curso Oracle\Certificações e cursos adicionais\GFT DIO\Abstraindo jogo RPG usando Orientação a objeto com C#\bin\Debug\net6.0\Abstraindo jogo RPG usando Orientação a objeto com C#.runtimeconfig.json
+D:\Curso Oracle\Certificações e cursos adicionais\GFT DIO\Abstraindo jogo RPG usando Orientação a objeto com C#\bin\Debug\net6.0\Abstraindo jogo RPG usando Orientação a objeto com C#.dll
+D:\Curso Oracle\Certificações e cursos adicionais\GFT DIO\Abstraindo jogo RPG usando Orientação a objeto com C#\bin\Debug\net6.0\ref\Abstraindo jogo RPG usando Orientação a objeto com C#.dll
+D:\Curso Oracle\Certificações e cursos adicionais\GFT DIO\Abstraindo jogo RPG usando Orientação a objeto com C#\bin\Debug\net6.0\Abstraindo jogo RPG usando Orientação a objeto com C#.pdb
+D:\Curso Oracle\Certificações e cursos adicionais\GFT DIO\Abstraindo jogo RPG usando Orientação a objeto com C#\obj\Debug\net6.0\Abstraindo jogo RPG usando Orientação a objeto com C#.csproj.AssemblyReference.cache
+D:\Curso Oracle\Certificações e cursos adicionais\GFT DIO\Abstraindo jogo RPG usando Orientação a objeto com C#\obj\Debug\net6.0\Abstraindo jogo RPG usando Orientação a objeto com C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso Oracle\Certificações e cursos adicionais\GFT DIO\Abstraindo jogo RPG usando Orientação a objeto com C#\obj\Debug\net6.0\Abstraindo jogo RPG usando Orientação a objeto com C#.AssemblyInfoInputs.cache
+D:\Curso Oracle\Certificações e cursos adicionais\GFT DIO\Abstraindo jogo RPG usando Orientação a objeto com C#\obj\Debug\net6.0\Abstraindo jogo RPG usando Orientação a objeto com C#.AssemblyInfo.cs
+D:\Curso Oracle\Certificações e cursos adicionais\GFT DIO\Abstraindo jogo RPG usando Orientação a objeto com C#\obj\Debug\net6.0\Abstraindo jogo RPG usando Orientação a objeto com C#.csproj.CoreCompileInputs.cache
+D:\Curso Oracle\Certificações e cursos adicionais\GFT DIO\Abstraindo jogo RPG usando Orientação a objeto com C#\obj\Debug\net6.0\Abstraindo jogo RPG usando Orientação a objeto com C#.dll
+D:\Curso Oracle\Certificações e cursos adicionais\GFT DIO\Abstraindo jogo RPG usando Orientação a objeto com C#\obj\Debug\net6.0\ref\Abstraindo jogo RPG usando Orientação a objeto com C#.dll
+D:\Curso Oracle\Certificações e cursos adicionais\GFT DIO\Abstraindo jogo RPG usando Orientação a objeto com C#\obj\Debug\net6.0\Abstraindo jogo RPG usando Orientação a objeto com C#.pdb
+D:\Curso Oracle\Certificações e cursos adicionais\GFT DIO\Abstraindo jogo RPG usando Orientação a objeto com C#\obj\Debug\net6.0\Abstraindo jogo RPG usando Orientação a objeto com C#.genruntimeconfig.cache
